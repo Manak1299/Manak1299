@@ -2,7 +2,7 @@
 <h3 align="center">I am a developer, freelancer and analytical thinker</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manak1299&label=Profile%20views&color=0e75b6&style=flat" alt="manak1299" /> </p>
-# 💫 About Me:
+💫 About Me:
 <br><br>    💬 Ask me about Programming, Data Structures, Flutter, React, AWS<br><br>    📫 How to reach me mnkgrwl94@gmail.com<br><br>    📄 Know about my experiences www.linkedin.com/in/manak-agarwal<br><br>    ⚡ Fun fact I love to code and work in collaborative team environment<br>
 
 
@@ -16,7 +16,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Manak1299&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Manak1299&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
+### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
 ---
